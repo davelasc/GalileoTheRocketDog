@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalileoTheRocketDog", "GalileoTheRocketDog\GalileoTheRocketDog\GalileoTheRocketDog.csproj", "{69EBB9A5-D46C-4713-B384-AE4C2EEB2389}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "GalileoTheRocketDogContent", "GalileoTheRocketDog\GalileoTheRocketDogContent\GalileoTheRocketDogContent.contentproj", "{0CFDB6C5-9562-4457-8DBD-DCC08785DD98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69EBB9A5-D46C-4713-B384-AE4C2EEB2389}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{69EBB9A5-D46C-4713-B384-AE4C2EEB2389}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{69EBB9A5-D46C-4713-B384-AE4C2EEB2389}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{69EBB9A5-D46C-4713-B384-AE4C2EEB2389}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{69EBB9A5-D46C-4713-B384-AE4C2EEB2389}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{69EBB9A5-D46C-4713-B384-AE4C2EEB2389}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{0CFDB6C5-9562-4457-8DBD-DCC08785DD98}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{0CFDB6C5-9562-4457-8DBD-DCC08785DD98}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
